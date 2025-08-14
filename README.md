@@ -72,5 +72,9 @@
   最后，放一个有趣的 GitHub 小蛇动画来结束吧！
 -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
