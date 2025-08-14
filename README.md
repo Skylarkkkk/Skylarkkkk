@@ -53,7 +53,7 @@
   访问: https://github.com/anuraghazra/github-readme-stats
 -->
 
----
+
 <!-- 
 ### 🌱What I'm Currently Working On
 
@@ -63,13 +63,9 @@
 - 📫 &nbsp; 如何联系我: `[你的首选联系方式，如邮箱]`
 - 😄 &nbsp; 趣闻: `[关于你的一个有趣的事实]`
 -->
----
+
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skylarkkkktheme=dracula&column=7" />
-</p>
 
 <!-- 
   感谢您使用此模板！
