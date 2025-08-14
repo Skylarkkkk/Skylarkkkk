@@ -13,20 +13,10 @@
 
 <!-- 2. 个人简介 -->
 <h1 align="center">
-  Hi there, I'm [你的名字或昵称] 👋
+  Hi there, I'm Skylarkkkk 👋
 </h1>
 <p align="center">
-  <em>A passionate [你的职业，如：Software Engineer / Full-Stack Developer / Student] from [你所在的城市/国家] 📍</em><br>
-  <em>专注于 [你感兴趣的技术领域], 致力于构建有趣和实用的项目 🚀</em>
-</p>
-
-
-<!-- 3. 社交媒体徽章 -->
-<p align="center">
-  <a href="mailto:[你的邮箱地址]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="[你的知乎/掘金/博客链接]"><img src="https://img.shields.io/badge/Blog-博客-blue?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-  <a href="https://github.com/[你的GitHub用户名]"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/[你的领英ID]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <em>A passionate Student from SYSU📍</em><br>
 </p>
 
 ---
@@ -35,18 +25,14 @@
 
 <p align="center">
   <!-- 前端 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vue,vite,webpack" />
-  </a>
-  <br>
   <!-- 后端 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,java,go,gin,fastapi,spring,mysql,postgres,redis,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python" />
   </a>
   <br>
   <!-- 其他工具 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,idea,vscode,linux,nginx" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,linux,latex" />
   </a>
 </p>
 <!-- 
