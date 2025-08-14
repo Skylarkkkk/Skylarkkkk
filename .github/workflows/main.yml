@@ -1,0 +1,41 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions
+name: Generate Snake
+
+on:
+  # 自动执行的触发条件：
+  # 1. 每天的午夜和中午 12 点定时执行
+  schedule:
+    - cron: "0 0,12 * * *"
+  # 2. 允许你手动在 Actions 标签页中运行此工作流
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        # 这是核心的 action，它会生成动画
+        uses: Platane/snk@v3
+        with:
+          # 你的 GitHub 用户名，${{ github.repository_owner }} 会自动获取
+          github_user_name: ${{ github.repository_owner }}
+
+          # 要生成的 SVG 文件名和路径，保存在 output 分支下
+          # 你可以自定义文件名，但要与下面 README 中引用的文件名保持一致
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        env:
+          # 需要一个 GitHub Token 来访问你的贡献数据
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output # 将生成的文件推送到 output 分支
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
