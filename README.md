@@ -21,18 +21,13 @@
 
 ---
 
-### 🚀 我的技能栈 (My Tech Stack)
+### 🚀 My Tech Stack
 
 <p align="center">
   <!-- 前端 -->
   <!-- 后端 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python" />
-  </a>
-  <br>
-  <!-- 其他工具 -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,linux,latex" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,git,github,idea,vscode,linux,latex" />
   </a>
 </p>
 <!-- 
@@ -43,15 +38,15 @@
 
 ---
 
-### 📊 我的 GitHub 统计 (My GitHub Stats)
+### 📊 My GitHub Stats
 
 <p align="center">
   <!-- 替换下面的 "[你的GitHub用户名]" 为你的 GitHub 用户名 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[你的GitHub用户名]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的GitHub用户名]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skylarkkkk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylarkkkk&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=[你的GitHub用户名]&theme=dracula" alt="[你的GitHub用户名]" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylarkkkk&theme=dracula" alt="Skylarkkkk" />
 </p>
 <!-- 
   想了解更多主题和自定义选项吗?
@@ -59,21 +54,21 @@
 -->
 
 ---
-
-### 🌱 我最近在做什么 (What I'm Currently Working On)
+<!-- 
+### 🌱What I'm Currently Working On
 
 - 🔭 &nbsp; 我目前正在参与项目 `[项目名称]`
 - 🤔 &nbsp; 我正在寻找关于 `[具体技术或问题]` 的帮助
 - 💬 &nbsp; 欢迎与我交流任何关于 `[你的专业领域]` 的问题
 - 📫 &nbsp; 如何联系我: `[你的首选联系方式，如邮箱]`
 - 😄 &nbsp; 趣闻: `[关于你的一个有趣的事实]`
-
+-->
 ---
 
 ### 🏆 GitHub 奖杯 (GitHub Trophies)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[你的GitHub用户名]&theme=dracula&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Skylarkkkktheme=dracula&column=7" alt="trophy" />
 </p>
 
 <!-- 
