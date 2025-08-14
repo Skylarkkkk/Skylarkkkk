@@ -65,10 +65,10 @@
 -->
 ---
 
-### 🏆 GitHub 奖杯 (GitHub Trophies)
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skylarkkkktheme=dracula&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Skylarkkkktheme=dracula&column=7" />
 </p>
 
 <!-- 
